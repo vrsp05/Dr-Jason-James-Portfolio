@@ -163,8 +163,7 @@ Special thanks to **GitHub Copilot** for helping bring this vision to life effic
 Dr. Jason James  
 
 **Developed By:**  
-Victor Santana  
-📧 victorrafaelsantana@hotmail.es
+[Victor Santana](https://github.com/vrsp05)
 
 **With Assistance From:**  
 GitHub Copilot (Claude Sonnet 4.5)  
