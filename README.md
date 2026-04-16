@@ -4,6 +4,8 @@ A professional, heartfelt website portfolio created for Dr. Jason James, my fath
 
 This was a fun and meaningful project to work on - combining my technical skills with the opportunity to honor someone who truly makes a difference in people's lives.
 
+See the website [here](https://jason-james-medicine.netlify.app/).
+
 ## About Dr. Jason James
 
 Dr. Jason James is an **internal medicine hospitalist** who graduated from the **Debusk College of Osteopathic Medicine at Lincoln Memorial University in 2016**. He serves in several medical organizations in the **Nebraska Panhandle area** and is deeply committed to charitable work, regularly organizing medical supply donations to countries like **Mexico, Dominican Republic, and Samoa**.
