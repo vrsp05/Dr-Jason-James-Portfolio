@@ -6,10 +6,6 @@ This was a fun and meaningful project to work on - combining my technical skills
 
 See the website [here](https://jason-james-medicine.netlify.app/).
 
-## About Dr. Jason James
-
-Dr. Jason James is an **internal medicine hospitalist** who graduated from the **Debusk College of Osteopathic Medicine at Lincoln Memorial University in 2016**. He serves in several medical organizations in the **Nebraska Panhandle area** and is deeply committed to charitable work, regularly organizing medical supply donations to countries like **Mexico, Dominican Republic, and Samoa**.
-
 ---
 
 ## Tech Stack
@@ -160,7 +156,7 @@ Special thanks to **GitHub Copilot** for helping bring this vision to life effic
 ## Contact & Credits
 
 **Website Created For:**  
-Dr. Jason James  
+My father-in-law 
 
 **Developed By:**  
 [Victor Santana](https://github.com/vrsp05)
