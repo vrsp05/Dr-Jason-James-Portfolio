@@ -1,4 +1,4 @@
-# Jason James Medicine Portfolio
+# Dr. Jason James Portfolio
 
 A professional, heartfelt website portfolio created for Dr. Jason James, my father-in-law. This project showcases his dedication to medicine, his work as an internal medicine hospitalist, and his incredible charitable impact across multiple countries.
 
